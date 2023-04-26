@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+matplotlib
+Scikit-Learn==1.0.2
+xgboost
+dill
+Flask
+gunicorn
+Flask-Cors==3.0.8
+mysql-connector-python
+#-e .
