@@ -61,5 +61,4 @@ if __name__=="__main__":
     print('\n',modeltrainer.initiate_model_trainer(train_arr,test_arr))
 
 
-#Flight-Fare-Prediction/   
 #set PYTHONPATH=%PYTHONPATH%;add_your_path(C:\Users\Admin\Desktop\Ineuron assignments\Project\Flight_Price_ML_project)
